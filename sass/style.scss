@@ -37,14 +37,16 @@ html {
 
 body {
     font-family: $font-primary;
-    background-color: $very-light-gray;
     font-weight: 400;
     font-size: 1.5rem;
     line-height: 2.5rem;
-
     letter-spacing: .0104167rem;
 
     color: $very-dark-blue;
+
+    background-color: $very-light-gray;
+
+    min-height: 100vh;
 
     display: flex;
     justify-content: center;

@@ -14,12 +14,13 @@ html {
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: hsl(0deg, 0%, 98%);
   font-weight: 400;
   font-size: 1.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.0104167rem;
   color: hsl(234deg, 12%, 34%);
+  background-color: hsl(0deg, 0%, 98%);
+  min-height: 100vh;
   display: flex;
   justify-content: center;
 }
